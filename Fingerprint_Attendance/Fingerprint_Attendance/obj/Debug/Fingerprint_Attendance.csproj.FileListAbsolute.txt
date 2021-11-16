@@ -1,0 +1,12 @@
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\bin\Debug\Fingerprint_Attendance.exe.config
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\bin\Debug\Fingerprint_Attendance.exe
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\bin\Debug\Fingerprint_Attendance.pdb
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.csproj.AssemblyReference.cache
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.Home.resources
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.Properties.Resources.resources
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.csproj.GenerateResource.cache
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.csproj.CoreCompileInputs.cache
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.exe
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.pdb
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.Registration.resources
+D:\TopUp\Final Year Projects\code_FinalProject\Fingerprint_Attendance\Fingerprint_Attendance\obj\Debug\Fingerprint_Attendance.Check_Attendance.resources
